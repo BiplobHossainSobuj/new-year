@@ -1,0 +1,38 @@
+
+/* shared style */
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Merriweather', serif;
+}
+
+/* top banner section's style  */
+header{
+    color: #FFF;
+    text-align: center;
+    margin: 50px 140px;
+    border-radius: 16px;
+    background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url("resources/BannerImage.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.top-banner{
+    padding: 200px 350px;
+}
+.greetings-title{
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+}
+.greetings-info{
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    color: #FFFFFF;
+    line-height: 95px
+}
