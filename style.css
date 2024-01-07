@@ -22,7 +22,7 @@ header{
 }
 
 .top-banner{
-    padding: 200px 350px;
+    padding: 210px 350px;
 }
 .greetings-title{
     font-size: 32px;
@@ -35,4 +35,32 @@ header{
     font-weight: 900;
     color: #FFFFFF;
     line-height: 95px
+}
+
+/* all category with 65 % of container style */
+.category-container{
+    text-align: center;
+    margin: 120px 0px;
+}
+.spetial-deal-amount{
+    color: #F00;
+    font-family: Inter;
+    font-style: normal;
+    font-size: 88px;
+    font-weight: 700;
+}
+.spetial-deal-title{
+    color: #F00;
+    font-family: Inter;
+    font-style: normal;
+    font-size: 24px;
+    font-weight: 500;
+    padding-top: 45px;
+    padding-bottom: 5px;
+}
+.special-deal-category{
+    color: #070211;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
 }
