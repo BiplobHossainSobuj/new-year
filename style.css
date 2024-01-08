@@ -207,3 +207,40 @@ header{
     font-size: 17px;
     color: #FFF;
 }
+/* Footer  */
+footer{
+    background: #070211;
+    padding: 120px 150px;
+    color: #FFF;
+}
+.contact-section{
+    display: flex;
+    justify-content: space-between;
+}
+.contact-deatails{
+    padding-right: 125px;
+}
+.contact-deatails img{
+    padding-right: 16px;
+}
+.contact-deatails div{
+    display: flex;
+}
+footer hr{
+    border: none;
+    height: 1px;
+    background: rgba(255, 255, 255, 0.15);
+    margin: 50px 0px;
+}
+.social-container{
+    display: flex;
+    justify-content: center;
+
+}
+.logo-container img{
+    margin: 0px 20px;
+}
+.copyright-container{
+    display: flex;
+    justify-content: space-between;
+}
