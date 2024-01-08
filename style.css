@@ -297,3 +297,56 @@ footer hr{
     display: flex;
     justify-content: space-between;
 }
+
+/* Functional container style  */
+.functional-discount-info{
+    text-align: center;
+    padding-bottom: 150px;
+}
+.functional-discount-title{
+    color: #070211;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.functional-discount-amount{
+    color: #070211;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    padding: 20px 0px;
+}
+
+.functional-container{
+    padding: 150px;
+    margin-top: 200px;
+}
+.lower-rectangle{
+    width: 100%;
+    display: flex;
+}
+.lower-rectangle img{
+    flex-grow: 1;
+    border-radius: 16px;
+}
+.functional-discount-countainer{
+    position: relative;
+}
+.functional-discount img{
+    position: absolute;
+}
+.unboxing{
+    margin-top: -400px;
+}
+.excited-women{
+    margin-left: 1170px;
+    margin-top: -432px;
+    border-radius: 16px;
+}
+.discounts{
+    margin-left: 990px;
+    margin-top: -350px;
+    z-index: 1;
+}
