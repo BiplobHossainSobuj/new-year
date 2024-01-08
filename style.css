@@ -269,6 +269,8 @@ footer{
 .contact-section{
     display: flex;
     justify-content: space-between;
+    font-weight: 500;
+    line-height: 30px;
 }
 .contact-deatails{
     padding-right: 125px;
@@ -296,6 +298,8 @@ footer hr{
 .copyright-container{
     display: flex;
     justify-content: space-between;
+    font-weight: 500;
+    font-size: 20px;
 }
 
 /* Functional container style  */
