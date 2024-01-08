@@ -111,7 +111,56 @@ header{
     padding-bottom: 145px;
 
 }
-
+/* offers container style  */
+.offer-container{
+    display: flex;
+    padding: 150px;
+    justify-content: space-between;
+    align-items: center;
+}
+.offer-info{
+    width: 30%;
+}
+.best-offer-title{
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.incoming-offer-title{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    padding: 20px 0px;
+}
+.incoming-offer-description{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    padding-bottom: 20px;
+}
+.offers-celebration{
+    border: 20px solid #F00;
+    border-radius: 350px;
+    padding: 30px;
+}
+.incoming-offer-date{
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-bottom: 20px;
+}
 /* gift conteriner styles */
 .gifts-container{
     padding: 150px;
